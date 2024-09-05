@@ -1,0 +1,67 @@
+![Nuestro amor (3)](https://github.com/user-attachments/assets/dcde6ac6-9415-43a4-8168-61481ad807bc)
+
+  ### ¡Hola! 👋 Mi nombre es Rosa
+  #### 🌻: Sobre mi:
+  Soy Analista de Calidad de Software recien graduada, donde adquiri habilidades fundamentales para asegurar la entrega de software de alta calidad.
+  Me encanta seguir aprendiendo y creciendo profesionalmente. Estoy siempre abierta a nuevas oportunidades y conexiones.
+
+  #### 🙂 Aptitudes QA:
+  - Documentación: Fundamentos de las pruebas, Análisis de requisitos, Casos de pruebas, Seguimiento de errores.
+  - Pruebas de aplicaciones Web: Pruebas manuales, Pruebas móviles, Pruebas APIs, Pruebas IU.
+  - Base de datos: Fundamentos de la base de datos, Linea de comandos, Solicitudes SQL, agregar, vincular, agrupar y organizar datos.
+  - Automatización de pruebas: Fundamentos de automatización con python y selenium.
+
+  #### 🛠️ Herramientas:
+ - Pycharm, Selenium, 
+ - Jira, Figma, 
+ - SQL, Postman, 
+ - AVS, Consola
+
+  #### 📫 Contáctame:
+- **LinkedIn**: [https://www.linkedin.com/in/krrosa-vega]
+- **Email**: [arqkarvga@gmail.com]
+ 
+  #### 🛠️ Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+</a>
+<img decoding="async" src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+</a>
+<img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+</a>
+<img decoding="async" src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+</a>
+ <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
+</a>
+ <img decoding="async" src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
+</a>
+  <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
+</a>
+  <img decoding="async" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
+</a>
+  <img decoding="async" src="https://img.shields.io/badge/AVS-000000.svg?style=for-the-badge&logo=AVS&logoColor=white" alt="AVS"/>
+</a>
+    <img decoding="async" src="https://img.shields.io/badge/Drawio-D85B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
+</a>
+  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft-office"/>
+</a>
+    <img decoding="async" src="https://img.shields.io/badge/AutoCad-D66B01?style=for-the-badge&logo=AutoCad&logoColor=white" alt="AutoCad"/>
+</a>
+
+
+</div>
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JenessyMEG.JenessyMEG&color=00cf00" alt=""/>
+      
+ ### 🔥 Mis estadísticas:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariaVega&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KariaVega&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
+     
+<!--
+KariaVega/KariaVega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-rr-vega/)
+-->
