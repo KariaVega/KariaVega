@@ -24,6 +24,7 @@
    - Jira,Figma,
    - Drawio, DevTools,
    - MySQL, SQL,
+   - HTTP, REST,
    - JSON, Postman,
    - AVS, Consola,
    - Python, Selenium,
@@ -31,17 +32,19 @@
    - MS Office, Autocad.
 </a>
 <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-<img decoding="async" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+<img decoding="async" src="https://img.shields.io/badge/Figma-darkgreen?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
 <img decoding="async" src="https://img.shields.io/badge/Drawio-D85B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
 <img decoding="async" src="https://img.shields.io/badge/DevTools-D80B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
 <img decoding="async" src="https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 <img decoding="async" src="https://img.shields.io/badge/SQL-009975?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img decoding="async" src="https://img.shields.io/badge/JSON-30D5C8?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
+<img decoding="async" src="https://img.shields.io/badge/HTTP-890000?style=for-the-badge&logo=HTTP&logoColor=white" alt="HTTP"/>
+<img decoding="async" src="https://img.shields.io/badge/REST-black?style=for-the-badge&logo=REST&logoColor=white" alt="REST"/>
+<img decoding="async" src="https://img.shields.io/badge/JSON-purple?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
 <img decoding="async" src="https://img.shields.io/badge/Postman-D83B01?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-<img decoding="async" src="https://img.shields.io/badge/AVS-404040?style=for-the-badge&logo=AVS&logoColor=white" alt="AVS"/>
+<img decoding="async" src="https://img.shields.io/badge/AVS-black?style=for-the-badge&logo=AVS&logoColor=white" alt="AVS"/>
 <img decoding="async" src="https://img.shields.io/badge/Python-0052CC?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 <img decoding="async" src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
-<img decoding="async" src="https://img.shields.io/badge/PyCharm-808000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
+<img decoding="async" src="https://img.shields.io/badge/PyCharm-darkgreen.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/>
 <img decoding="async" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img decoding="async" src="https://img.shields.io/badge/Microsoft_Office-D89B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft-office"/>
 <img decoding="async" src="https://img.shields.io/badge/AutoCad-D80B01?style=for-the-badge&logo=AutoCad&logoColor=white" alt="AutoCad"/>
