@@ -2,7 +2,7 @@
 
   ### ¡Qué tal! 👋 Mi nombre es Rosa
   #### ⭐ Sobre mi:
-  Analista QA Jr. con más de 6 meses de experiencia en aseguramiento de calidad de software, con experiencia en diseño, ejecución y automatización de pruebas para aplicaciones web, móviles y APIs. Sólida base técnica en Pycharm, Postman y SQL. Habilidades en gestión de proyectos y atención al detalle, adquiridas en mi formación profesional como arquitecta. Pasión por la mejora continua y nuevas oportunidades de crecimiento personal. 
+  Analista QA Jr. con más de 1 año de experiencia en aseguramiento de calidad de software, con experiencia en diseño, ejecución y automatización de pruebas para aplicaciones web, móviles y APIs. Sólida base técnica en Pycharm, Postman y SQL. Habilidades en gestión de proyectos y atención al detalle, adquiridas en mi formación profesional como arquitecta. Pasión por la mejora continua y nuevas oportunidades de crecimiento personal. 
 
   #### :fireworks: Habilidades técnicas QA:
   - Creación de documentación de pruebas con análisis de requisitos, mapas mentales y diagramas de flujo.
