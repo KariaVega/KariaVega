@@ -1,4 +1,6 @@
 ![Nuestro amor (3)](https://github.com/user-attachments/assets/dcde6ac6-9415-43a4-8168-61481ad807bc)
+![Banner LinkedIn_002](https://github.com/user-attachments/assets/b1a91d8a-f7dc-41e8-b004-5a39816b42f7)
+
 
   ### ¡Qué tal! 👋 Mi nombre es Rosa
   #### ⭐ Sobre mi:
