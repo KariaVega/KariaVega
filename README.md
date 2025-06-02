@@ -2,7 +2,8 @@
 
   ### ¡Qué tal! 👋 Mi nombre es Rosa
   #### ⭐ Sobre mi:
-  Analista QA Jr. con más de 1 año de experiencia en aseguramiento de calidad de software, con experiencia en diseño, ejecución y automatización de pruebas para aplicaciones web, móviles y APIs. Sólida base técnica en Pycharm, Postman y SQL. Habilidades en gestión de proyectos y atención al detalle, adquiridas en mi formación profesional como arquitecta. Pasión por la mejora continua y nuevas oportunidades de crecimiento personal. 
+  QA Engineer junior con enfoque práctico, mentalidad analítica y 1 año de experiencia en pruebas manuales y fundamentos de automatización sobre aplicaciones web, móviles y APIs. He contribuido en entornos reales validando funcionalidades, flujos de usuario e integraciones backend, diseñando y ejecutando casos de prueba que ayudaron a detectar errores críticos y mejorar la estabilidad del producto. He participado en proyectos de sectores como e-commerce, financiero, transporte público y aplicaciones para restaurantes, lo que me ha permitido adaptarme a distintos modelos de negocio y contextos tecnológicos.
+Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente estoy profundizando en automatización con Python, Selenium y JMeter. Me destaco por mis habilidades en documentación, análisis de requerimientos y trabajo colaborativo en equipos ágiles. Poseo nivel conversacional de inglés y alemán, facilitando la comunicación en entornos técnicos y multiculturales
 
   #### :fireworks: Habilidades técnicas QA:
   - Creación de documentación de pruebas con análisis de requisitos, mapas mentales y diagramas de flujo.
