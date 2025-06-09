@@ -23,6 +23,18 @@ Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente est
   #### 🛠️ Lenguaje y herramientas:
   <div id="header" align="left">  
     
+	Diseño y ejecución de casos de prueba
+	Registro y seguimiento de errores (bug tracking)
+	Pruebas funcionales, de integración, regresión e interfaz de usuario (UI)
+	Testing manual en entornos web, móvil y API
+	Postman, Figma, Draw.io, Jira
+	SQL básico (SELECT, UPDATE, DELETE)
+	Python (con Pytest y Selenium), Pycharm
+	Git, GitHub
+	Android Studio (emuladores y dispositivos reales)
+	JSON, AVS, JMeter (pruebas de carga y rendimiento)
+	Inglés B1, alemán B1.
+
    - Jira,Figma,
    - Drawio, DevTools,
    - MySQL, SQL,
