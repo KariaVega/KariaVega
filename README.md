@@ -13,6 +13,7 @@ Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente est
   - Gestión y mantenimiento de bases de datos relacionales, utilizando línea de comandos y herramientas de consola.
   - Creación y optimización de consultas SQL, incluyendo selección, inserción, actualización y eliminación de datos.
   - Aprendizaje de fundamentos para la automatización de pruebas con Pytest, Python, y Selenium en Pycharm.
+  - Inglés B1, alemán B1.
 
   #### :muscle: Habilidades adquiridas:
   - Planificación, organización, adaptabilidad, resolución de problemas administrando un proyecto.
