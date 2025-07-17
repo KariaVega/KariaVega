@@ -6,44 +6,24 @@
 Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente estoy profundizando en automatización con Python, Selenium y JMeter. Me destaco por mis habilidades en documentación, análisis de requerimientos y trabajo colaborativo en equipos ágiles. Poseo nivel conversacional de inglés y alemán, facilitando la comunicación en entornos técnicos y multiculturales
 
   #### :fireworks: Habilidades técnicas QA:
-  - Creación de documentación de pruebas con análisis de requisitos, mapas mentales y diagramas de flujo.
-  - Ejecución de pruebas manuales y de regresión; validación de datos y seguimiento de errores.
-  - Realización de pruebas en aplicaciones web y móviles, incluyendo pruebas funcionales, de UI y compatibilidad.
-  - Validación del Backend utilizando API REST, revision de documentacion en Apidos y Swagger.
-  - Gestión y mantenimiento de bases de datos relacionales, utilizando línea de comandos y herramientas de consola.
-  - Creación y optimización de consultas SQL, incluyendo selección, inserción, actualización y eliminación de datos.
-  - Aprendizaje de fundamentos para la automatización de pruebas con Pytest, Python, y Selenium en Pycharm.
-  - Inglés B2, alemán B1.
+•	Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
+•	Herramientas de Gestión, Documentación y Depuración: Postman, Figma, Draw.io, Jira, Apidoc, Swager, DevTools del Navegador.
+•	Bases de Datos: SQL básico (SELECT, UPDATE, DELETE).
+•	Automatización y Programación: Python (con Pytest y Selenium), Java (fundamentos de Programación Orientada a Objetos), Pycharm, Git, GitHub, JMeter (pruebas de carga y rendimiento).
+•	Móvil: Android Studio, AVS (emuladores y dispositivos reales).
+•	APIs/Formatos: JSON, APIs REST.
+•	Idiomas: inglés B2, alemán B1.
 
   #### :muscle: Habilidades adquiridas:
-  - Planificación, organización, adaptabilidad, resolución de problemas administrando un proyecto.
+  - Planificación, organización, adaptabilidad, resolución de problemas en la gestion de proyectos.
   - Dirigir, planificar, comunicación, resolución de problemas técnicos y logísticos, atención al detalle supervisando.
   - Análisis de información, atención al detalle, precisión, capacidad de resolución de problemas, organización gestionando entregables. 
 
-  #### 🛠️ Lenguaje y herramientas:
+  #### 🛠️ Herramientas:
   <div id="header" align="left">  
     
-	Diseño y ejecución de casos de prueba
-	Registro y seguimiento de errores (bug tracking)
-	Pruebas funcionales, de integración, regresión e interfaz de usuario (UI)
-	Testing manual en entornos web, móvil y API
-	Postman, Figma, Draw.io, Jira
-	SQL básico (SELECT, UPDATE, DELETE)
-	Python (con Pytest y Selenium), Pycharm
-	Git, GitHub
-	Android Studio (emuladores y dispositivos reales)
-	JSON, AVS, JMeter (pruebas de carga y rendimiento)
-	Inglés B2, alemán B1.
 
-   - Jira,Figma,
-   - Drawio, DevTools,
-   - MySQL, SQL,
-   - HTTP, REST,
-   - JSON, Postman,
-   - AVS, Consola,
-   - Python, Selenium,
-   - Pycharm, GitHub,
-   - MS Office, Autocad.
+
 </a>
 <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
 <img decoding="async" src="https://img.shields.io/badge/Figma-darkgreen?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
