@@ -2,8 +2,9 @@
 
   ### ¡Qué tal! 👋 Mi nombre es Rosa
   #### ⭐ Sobre mi:
-  QA Engineer junior con enfoque práctico, mentalidad analítica y 1 año de experiencia en pruebas manuales y fundamentos de automatización sobre aplicaciones web, móviles y APIs. He contribuido en entornos reales validando funcionalidades, flujos de usuario e integraciones backend, diseñando y ejecutando casos de prueba que ayudaron a detectar errores críticos y mejorar la estabilidad del producto. He participado en proyectos de sectores como e-commerce, financiero, transporte público y aplicaciones para restaurantes, lo que me ha permitido adaptarme a distintos modelos de negocio y contextos tecnológicos.
-Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente estoy profundizando en automatización con Python, Selenium y JMeter. Me destaco por mis habilidades en documentación, análisis de requerimientos y trabajo colaborativo en equipos ágiles. Poseo nivel conversacional de inglés y alemán, facilitando la comunicación en entornos técnicos y multiculturales
+  QA Engineer con mentalidad analítica y un enfoque práctico en la calidad del software, abarcando testing manual y fundamentos de automatización para aplicaciones web, móviles y APIs. Mi experiencia incluye la validación de funcionalidades y flujos de usuario, así como la ejecución de más de 990 casos de prueba que han contribuido a la detección proactiva de defectos y a la mejora continua del producto.
+
+Soy hábil en el manejo de Postman, SQL, Jira, Figma, Selenium WebDriver, Python y JMeter, y me adapto rápidamente a diversos contextos tecnológicos, desde e-commerce hasta finanzas. Valoro la colaboración en equipos ágiles, el análisis de requerimientos y la creación de documentación clara. Facilito la comunicación en entornos técnicos y multiculturales gracias a mi nivel de inglés y alemán.
 
   #### :fireworks: Habilidades técnicas QA:
 •	Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
@@ -21,8 +22,6 @@ Manejo herramientas como Postman, SQL, Jira, Figma y Selenium, y actualmente est
 
   #### 🛠️ Herramientas:
   <div id="header" align="left">  
-    
-
 
 </a>
 <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
