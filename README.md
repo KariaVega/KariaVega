@@ -7,13 +7,13 @@
 Soy hábil en el manejo de Postman, SQL, Jira, Figma, Selenium WebDriver, Python y JMeter, y me adapto rápidamente a diversos contextos tecnológicos, desde e-commerce hasta finanzas. Valoro la colaboración en equipos ágiles, el análisis de requerimientos y la creación de documentación clara. Facilito la comunicación en entornos técnicos y multiculturales gracias a mi nivel de inglés y alemán.
 
   #### :fireworks: Habilidades técnicas QA:
-•	Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
-•	Herramientas de Gestión, Documentación y Depuración: Postman, Figma, Draw.io, Jira, Apidoc, Swager, DevTools del Navegador.
-•	Bases de Datos: SQL básico (SELECT, UPDATE, DELETE).
-•	Automatización y Programación: Python (con Pytest y Selenium), Java (fundamentos de Programación Orientada a Objetos), Pycharm, Git, GitHub, JMeter (pruebas de carga y rendimiento).
-•	Móvil: Android Studio, AVS (emuladores y dispositivos reales).
-•	APIs/Formatos: JSON, APIs REST.
-•	Idiomas: inglés B2, alemán B1.
+-Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
+-	Herramientas de Gestión, Documentación y Depuración: Postman, Figma, Draw.io, Jira, Apidoc, Swager, DevTools del Navegador.
+-	Bases de Datos: SQL básico (SELECT, UPDATE, DELETE).
+-	Automatización y Programación: Python (con Pytest y Selenium), Java (fundamentos de Programación Orientada a Objetos), Pycharm, Git, GitHub, JMeter (pruebas de carga y rendimiento).
+-	Móvil: Android Studio, AVS (emuladores y dispositivos reales).
+-	APIs/Formatos: JSON, APIs REST.
+-	Idiomas: inglés B2, alemán B1.
 
   #### :muscle: Habilidades adquiridas:
   - Planificación, organización, adaptabilidad, resolución de problemas en la gestion de proyectos.
