@@ -1,13 +1,13 @@
 ![Banner LinkedIn_002](https://github.com/user-attachments/assets/b1a91d8a-f7dc-41e8-b004-5a39816b42f7)
 
   ### ¡Qué tal! 👋 Mi nombre es Rosa
-  #### ⭐ Sobre mi:
+  #### :star: Sobre mi:
   QA Engineer con mentalidad analítica y un enfoque práctico en la calidad del software, abarcando testing manual y fundamentos de automatización para aplicaciones web, móviles y APIs. Mi experiencia incluye la validación de funcionalidades y flujos de usuario, así como la ejecución de más de 990 casos de prueba que han contribuido a la detección proactiva de defectos y a la mejora continua del producto.
 
 Soy hábil en el manejo de Postman, SQL, Jira, Figma, Selenium WebDriver, Python y JMeter, y me adapto rápidamente a diversos contextos tecnológicos, desde e-commerce hasta finanzas. Valoro la colaboración en equipos ágiles, el análisis de requerimientos y la creación de documentación clara. Facilito la comunicación en entornos técnicos y multiculturales gracias a mi nivel de inglés y alemán.
 
-  #### :fireworks: Habilidades técnicas QA:
--Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
+  #### :fireworks: Habilidades técnicas en QA:
+- Tipos de Pruebas: Diseño y ejecución de casos de prueba, registro y seguimiento de errores (bug tracking), Pruebas funcionales, de integración, regresión e interfaz de usuario (UI), Testing manual en entornos web, móvil y API.
 -	Herramientas de Gestión, Documentación y Depuración: Postman, Figma, Draw.io, Jira, Apidoc, Swager, DevTools del Navegador.
 -	Bases de Datos: SQL básico (SELECT, UPDATE, DELETE).
 -	Automatización y Programación: Python (con Pytest y Selenium), Java (fundamentos de Programación Orientada a Objetos), Pycharm, Git, GitHub, JMeter (pruebas de carga y rendimiento).
@@ -15,7 +15,7 @@ Soy hábil en el manejo de Postman, SQL, Jira, Figma, Selenium WebDriver, Python
 -	APIs/Formatos: JSON, APIs REST.
 -	Idiomas: inglés B2, alemán B1.
 
-  #### :muscle: Habilidades adquiridas:
+  #### :muscle: Habilidades adquiridas transferibles:
   - Planificación, organización, adaptabilidad, resolución de problemas en la gestion de proyectos.
   - Dirigir, planificar, comunicación, resolución de problemas técnicos y logísticos, atención al detalle supervisando.
   - Análisis de información, atención al detalle, precisión, capacidad de resolución de problemas, organización gestionando entregables. 
